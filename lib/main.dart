@@ -105,6 +105,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: .center,
           children: [
             const Text(
+              //made it big
               'Jack has pushed the button this many times:',
               style: TextStyle(fontSize: 28),
             ),
